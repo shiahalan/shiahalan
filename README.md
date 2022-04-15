@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shiahalan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS
