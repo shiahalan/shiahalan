@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @shiahalan
+- 👋 Hi, I’m Alan Shiah
 - 👀 I’m interested in Software Programming and Cybersecurity!
 - 🌱 I’m currently learning C++, C#, Python, SQL, Java, and Unity!
