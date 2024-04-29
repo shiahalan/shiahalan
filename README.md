@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shiahalan
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software Programming and Cybersecurity!
 - 🌱 I’m currently learning C++, C#, Python, SQL, Java, and Unity!
