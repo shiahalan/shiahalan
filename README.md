@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences at [https://alanshiah.com](https://alanshiah.com)
 
-- 🐶 Fun fact **My dog's name is Kai!**
+- 🐶 Fun fact: **My dog's name is Kai!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
