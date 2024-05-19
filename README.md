@@ -21,6 +21,11 @@
 
 ### 📝 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Redeemer | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-46c5)
+- [Dancing | HackTheBox Write-up](https://dev.to/shiahalan/dancing-hackthebox-write-up-2o35)
+- [Photon Lockdown | HackTheBox Write-up](https://dev.to/shiahalan/photon-lockdown-hackthebox-write-up-p45)
+- [Fawn | HackTheBox Write-up](https://dev.to/shiahalan/fawn-hackthebox-write-up-2bm9)
+- [Meow | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-3j0b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
