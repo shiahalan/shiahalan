@@ -1,5 +1,5 @@
-<h1 align="center">Hello!<br> I'm Alan Shiah</h1>
-<h3 align="center">A passionate software programmer, and cybersecurity enthusiast</h3>
+<h1 align="center">Hello,<br> I'm Alan Shiah</h1>
+<h3 align="center">A passionate software programmer, and cybersecurity enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiahalan&label=Profile%20views&color=0e75b6&style=flat" alt="shiahalan" /> </p>
 
