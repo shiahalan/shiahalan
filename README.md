@@ -13,11 +13,11 @@
 
 - 📝 I sometimes write articles on [https://dev.to/shiahalan](https://dev.to/shiahalan)
 
-- 📫 How to reach me **alan@alanshiah.com**
+- 📫 How to reach me: **alan@alanshiah.com**
 
-- 📄 Know about my experiences [https://alanshiah.com](https://alanshiah.com)
+- 📄 Know about my experiences at [https://alanshiah.com](https://alanshiah.com)
 
-- ⚡ Fun fact **My dog's name is Kai!**
+- 🐶 Fun fact **My dog's name is Kai!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
