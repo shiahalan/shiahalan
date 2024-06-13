@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ and Ethical Hacking**
 
-- 🔭 I’m also working on an [Ethical Hacking Cheat Sheet](https://github.com/shiahalan/Ethical-Hacking-Cheat-Sheet)
+- 🔭 I’m also working on an [MacroPilot](https://github.com/shiahalan/MacroPilot))
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiahalan](https://github.com/shiahalan)
 
