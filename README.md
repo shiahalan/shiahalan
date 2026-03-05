@@ -21,11 +21,11 @@
 
 ### 📝 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [TaskTimer](https://dev.to/shiahalan/tasktimer-3c9m)
 - [MacroPilot: Piloting Tasks with Automated Macros](https://dev.to/shiahalan/macropilot-piloting-tasks-with-automated-macros-24m4)
 - [Redeemer | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-46c5)
 - [Dancing | HackTheBox Write-up](https://dev.to/shiahalan/dancing-hackthebox-write-up-2o35)
 - [Photon Lockdown | HackTheBox Write-up](https://dev.to/shiahalan/photon-lockdown-hackthebox-write-up-p45)
-- [Fawn | HackTheBox Write-up](https://dev.to/shiahalan/fawn-hackthebox-write-up-2bm9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🤝 Connect with me:</h3>
